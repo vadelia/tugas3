@@ -43,3 +43,7 @@ body {
     position: absolute;
     bottom: 0;
 }
+
+#profile-job{
+    text-align: center;
+}
